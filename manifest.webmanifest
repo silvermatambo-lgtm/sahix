@@ -1,0 +1,18 @@
+{
+  "name": "SAHIX — AI in Health Conference 2027",
+  "short_name": "SAHIX 2027",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#082958",
+  "background_color": "#082958",
+  "lang": "en-ZW",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
